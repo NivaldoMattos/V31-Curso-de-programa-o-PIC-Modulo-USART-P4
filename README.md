@@ -1,4 +1,4 @@
-# V31-Curso-de-programa-o-PIC-Modulo-USART-P4
+# V31-Curso de programação PIC Modulo USART P4
 Codigos utilizados no Video-31 sobre o módulo EUSART - Baud Rate Generator
 
 Seguindo nosso estudo de Microcontroladores PIC com o compilador XC-08, 
